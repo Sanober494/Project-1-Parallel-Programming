@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-#SBATCH --mail-user=CNETID@cs.uchicago.edu
+#SBATCH --mail-user=sanober@cs.uchicago.edu
 #SBATCH --mail-type=ALL
 #SBATCH --job-name=proj1_benchmark 
 #SBATCH --output=./slurm/out/%j.%N.stdout
